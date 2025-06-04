@@ -1,9 +1,12 @@
 # ChatUp
 ## https://chatup-krg8.onrender.com
-Highlights:
 
-- 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
-- 🎃 Authentication && Authorization with JWT
+## Project Overview
+
+ChatUp is a modern real-time chat application built with the MERN stack and enhanced with Socket.io for instant messaging. It allows users to sign up, log in, chat with others in real time, view online status, and manage their messages seamlessly. Designed with a clean and responsive UI using TailwindCSS and Daisy UI.
+
+## Highlights:
+- 🪙 Authentication && Authorization with JWT
 - 👾 Real-time messaging with Socket.io
 - 🚀 Online user status
 - 👌 Global state management with Zustand
@@ -24,7 +27,7 @@ NODE_ENV=development
 ```
 
 ### Build the app
-
+(Will install all dependencies)
 ```shell
 npm run build
 ```
