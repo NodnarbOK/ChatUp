@@ -1,5 +1,5 @@
 # ChatUp
-
+## https://chatup-krg8.onrender.com
 Highlights:
 
 - 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
